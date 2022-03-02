@@ -17,7 +17,7 @@
 
 -[x] Write read me repo 
 -[] Update Repository
--[] Activate Nuclear Quantitative analysis
+-[] Research and deploy 'Nuclear Quantitative analysis' in Ukraine
 
 random test :sunglasses:
 
